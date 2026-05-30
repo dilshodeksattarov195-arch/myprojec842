@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpecrypt",
+        "uuid": 6352048,
+        "checksum": "ofd7bk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
